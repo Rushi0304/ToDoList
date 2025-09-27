@@ -1,0 +1,47 @@
+body{
+    background-color: lightgray;
+    box-sizing: border-box;
+}
+form{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    margin-left: 370px;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+    color: purple;
+}
+#submit-btn{
+    margin-left: 25px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+#todo-input{
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+#todocontainer {
+  width: 600px;
+  margin: auto ;
+ margin-left: 24rem;
+  padding: 10px;
+  background-color: white;
+  border: 2px solid black;
+    border-radius: 10px;
+}
+p{
+   color: green;
+   font-size: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
